@@ -1,0 +1,47 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "mafia-game: Start Dev Server",
+      "type": "shell",
+      "command": "npm run dev",
+      "options": {
+        "cwd": "${workspaceFolder}/mafia-game"
+      },
+      "problemMatcher": [],
+      "presentation": {
+        "echo": true,
+        "reveal": "always",
+        "focus": false,
+        "panel": "shared"
+      }
+    },
+    {
+      "label": "mafia-game: Build",
+      "type": "shell",
+      "command": "npm run build",
+      "options": {
+        "cwd": "${workspaceFolder}/mafia-game"
+      },
+      "problemMatcher": []
+    },
+    {
+      "label": "mafia-game: Lint",
+      "type": "shell",
+      "command": "npm run lint",
+      "options": {
+        "cwd": "${workspaceFolder}/mafia-game"
+      },
+      "problemMatcher": []
+    },
+    {
+      "label": "mafia-game: Open in Browser (localhost:3000)",
+      "type": "shell",
+      "command": "start http://localhost:3000",
+      "windows": {
+        "command": "start http://localhost:3000"
+      },
+      "problemMatcher": []
+    }
+  ]
+}

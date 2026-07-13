@@ -1,0 +1,213 @@
+Ik heb grondig research gedaan naar Bulletstar Legends (de mafia MMORPG browser game). Hier is een duidelijke schema + analyse.
+1. Hoofd Systemen in Bulletstar (uit onderzoek)
+
+
+
+CategorieSpecifieke Systemen in BulletstarBelang (schatting)MoeilijkheidsgraadProgressieLevels, XP, Stats (Attack, Defense, Stamina, Energy)★★★★★LaagEconomieCash, Drugs, Weapons, Vehicles, Properties★★★★★MediumCrimesVerschillende crimes met risico/succes kans★★★★LaagPvP / KillingSpelers aanvallen, Hospitaliseren, Kill (met risico)★★★★★MediumSociale StructuurFamilies / Gangs, Allianties, Betrayals, Wars★★★★★HoogBusinessWinkels, Clubs, Casinos (passief inkomen)★★★★MediumItems & GearWeapons, Armor, Special items met stats★★★★LaagEventsDaily/Weekly events, Raids, Lotteries★★★MediumRisico / ConsequentiesPolice, Heat, Hospital, Jail★★★★MediumIdle / OfflinePassive income, Energy regen★★★★★Laag
+Verhoudingen in Bulletstar (wat ze goed doen):
+
+40% Sociale interactie & PvP (core van retentie)
+30% Economie & Idle progressie
+20% Crimes & Acties
+10% Events & nieuwigheden
+
+2. Wat ik zou aanpassen / toevoegen (mijn aanbevelingen)
+Must Keep (sterke kanten van Bulletstar):
+
+Sterke Gang/Family focus — dit is hun grootste succesfactor
+Goede balans tussen risk vs reward bij crimes en PvP
+Idle/passive elementen (belangrijk voor browser games)
+
+Wat ik zou veranderen of toevoegen:
+
+
+SysteemBulletstar aanpakMijn Aanbeveling (Verbetering)WaaromKilling / PvPDirect kill + hospital"Respect / Revenge" systeem + cooldownsMinder toxic, meer strategischHeistsBasis crimesTiered Heists met crew + voorbereidingVeel spannenderLottery / GamblingBasis eventsCasino mini-games + wekelijkse jackpotExtra dopamineProgressieKlassieke statsPrestige / Season Reset elke 6-8 wekenHoudt game frisNieuwe speler ervaringSnelle startTutorial + Starter GangMinder drop-offEconomische balansGoed maar kan saai wordenSpeler-gedreven markt (speler trading)Meer diepte
+Systemen die ik nog niet (of weinig) voorbij zag komen in Bulletstar en die ik sterk aanraad om toe te voegen:
+
+Heat / Police systeem (sterk aanbevolen) — Hoe meer crimes, hoe hoger de heat → politie raids, boetes, etc.
+Betrayal / Internal Gang Politics — Mogelijkheid om je eigen gang te verraden voor groot voordeel (hoog risico, hoge beloning).
+Territory Control — Gangs kunnen wijken claimen voor bonussen.
+Specialization — Spelers kiezen een "role" (Hitman, Dealer, Hacker, Boss, etc.) met unieke bonuses.
+Dynamic Events — Spelers kunnen zelf events starten (bijv. bankoverval met meerdere gangs).
+
+3. Mijn Voorstel voor Jouw Game (Prioriteiten)
+Core MVP (eerste versie):
+
+Login + Stats
+Crimes (5-8 stuks)
+Idle income
+Basis PvP (aanvallen + hospital)
+Eenvoudige Gangs
+
+Versie 1.5 – 2.0 (sterk aanbevolen toevoegingen):
+
+Full Gang systeem + Territory
+Heat / Police mechanisme
+Heists met voorbereiding
+Lottery + Casino
+
+Wat ik persoonlijk zou doen als ik deze game bouw:
+
+Maak Gangs het absolute middelpunt (sterker dan Bulletstar)
+Voeg Heat systeem toe — dit maakt het spannend en uniek
+Houd PvP leuk maar niet te griefy (protectie voor nieuwe spelers)
+Season resets om de game fris te houden
+
+Wil je dat ik nu een uitgebreid schema maak met exacte feature prioritering voor de komende maanden? Of wil je dat ik een technisch implementatie plan maak voor de belangrijkste systemen (bijv. hoe je het Heat systeem of Gang systeem bouwt)?
+Laat het weten!mijn gedachten zijn om aan alles te modernaseren, maar toch ook leuk en autentiek te houden, beetje van beide wereldePerfect! Dit is een hele goede richting.
+Je wilt dus:
+Modern + Clean + Autentiek — een mix van de nostalgische mafia-browser-vibe met moderne game design.
+Hier is mijn gebalanceerde visie voor jouw game:
+Kernvisie: “Mafia Wars 2026”
+Oude school (autentiek) behouden:
+
+Tekst-gebaseerde crimes
+Risk vs Reward
+Gang politics & verraad
+Idle progressie
+"Rise from the streets to the top" gevoel
+
+Modern maken (2026 stijl):
+
+Mooie, clean UI (niet ouderwets)
+Snelle, vloeiende ervaring
+Mobiel eerst (zeer belangrijk)
+Goede balans & anti-frustratie systemen
+Moderne sociale features
+
+Concrete Aanbevelingen: Wat te moderniseren vs behouden
+
+AspectOude School (Behouden)Moderniseren (Nieuwe aanpak)Mijn AanbevelingUI / DesignSimpele tekst + basis knoppenClean, donkere mafia-stijl, cards, animatiesSterk moderniserenProgressieKlassieke statsStats + Skill Trees of Roles (Hitman, Boss, etc.)MixCrimesSimpele klik → resultaatMini keuzes tijdens crime + visuele feedbackModerniserenPvP / KillingDirect killTactical combat + Respect systeem + RevengeSterk moderniserenGangsBasis familiesDeep gang management + Territory + Internal votesSterk uitbouwenIdlePassive moneySmart idle + offline events + notificationsModerniserenEventsBasis loterijLive events + Player-driven eventsModerniserenEconomiesSimpele shopsPlayer Market + Dynamic pricesModerniseren
+Specifieke Moderne Features die ik sterk aanraad
+
+"Modern Classic" UI
+Donkere achtergrond met neon/retro accenten
+Responsive cards en dashboards
+Subtiele animaties (geen overkill)
+
+Role System (nieuw & modern)
+Speler kiest specialisatie:
+Enforcer (beter in PvP)
+Hustler (beter in geld verdienen)
+Underboss (beter in gang management)
+etc.
+
+Heat Systeem 2.0
+Hoe meer je doet → hoger heat → politie raids, maar ook meer respect van gangs.
+Smart Notifications
+Push notifications (via browser) zoals:
+“Je business heeft $2.400 verdiend”
+“Je gang wordt aangevallen!”
+
+Season Pass / Battle Pass light
+Gratis rewards per season + optionele premium cosmetics.
+Autentieke Touchpoints
+Klassieke crime namen (Hijack, Extortion, Drug Deal)
+Mafia-achtige teksten en flavor
+Geluidseffecten (gunshots, klassieke muziek)
+
+
+Hoe we dit gaan aanpakken
+We bouwen het in lagen:
+
+Laag 1 (Basis): Clean moderne UI + core loop (crimes + idle)
+Laag 2: Social & Gang systemen (authentiek)
+Laag 3: Diepe mechanics (Heat, Territory, Roles)
+
+Wil je dat ik nu een bijgewerkt stappenplan maak dat rekening houdt met deze moderne + authentieke mix?
+Of wil je eerst een UI/Design richting (beschrijving hoe de dashboard eruit moet zien)?
+Zeg maar waar je mee wilt starten.
+
+Fase 1: Project Opzetten (1-2 dagen)
+Te doen:
+
+Next.js project maken
+Tailwind + TypeScript instellen
+Supabase connecten
+
+Beste YouTube Video's:
+
+"Next.js 14 Full Course 2025" – zoek "Next.js 14 crash course" van Fireship of Code with Antonio
+"Next.js + Supabase Setup Tutorial" (2025 versie)
+
+
+Fase 2: Authenticatie (Login Systeem) (2-4 dagen)
+Te doen:
+
+Registratie + Login
+Beschermde routes (alleen ingelogd)
+User session
+
+Beste Video's:
+
+"Supabase Auth with Next.js 14" – zoek "Supabase Next.js authentication tutorial 2025"
+Aanbevolen kanaal: "Code with Antonio" of "Supabase" officieel kanaal
+
+
+Fase 3: Database + Speler Stats (3-5 dagen)
+Te doen:
+
+Prisma of Supabase Database setup
+Speler stats (money, energy, level, etc.)
+Idle / Offline progressie
+
+Video's:
+
+"Supabase Database with Next.js Tutorial"
+"Prisma ORM with Supabase" (als je Prisma gebruikt)
+
+
+Fase 4: Core Game Loop (Crimes + Timers) (5-8 dagen)
+Te doen:
+
+Crime systeem met timers
+Beloningen
+Energy systeem
+
+Video's:
+
+Zoek: "Building Idle Game Mechanics with Next.js"
+"React Timers and useEffect Tutorial"
+
+
+Fase 5: UI/UX + Modern Design (4-6 dagen)
+Te doen:
+
+Mooie mafia-stijl dashboard
+Responsive design
+Animaties
+
+Video's:
+
+"Tailwind CSS Full Course 2025"
+"Modern Dashboard with Tailwind + Next.js"
+
+
+Fase 6: Hosting & Online Zetten (1-2 dagen)
+Te doen:
+
+Deployen naar Vercel
+Supabase live koppelen
+Eerste live versie
+
+Video:
+
+"Deploy Next.js App to Vercel with Supabase"
+
+
+Fase 7: Basis Multiplayer / Gangs (na MVP)
+Video's:
+
+"Real-time with Supabase Realtime"
+"Building Social Features with Next.js"
+
+
+
+vverder gaan met : 
+
+Fase 5 polish so far:
+
+Game navigation bar — sticky at the top with Dashboard, plus Shop 🛒 / Family 👥 / Rankings 🏆 already visible as "Soon" (teases what's coming, and gives us slots to fill)
+Login/register: 👁️ show/hide password toggle, focus rings, card shadows
+Level-up banner now pulses for extra dopamine
+Run the SQL, say "done", and I'll test the claim flow (naming the test boss), then verify a brand-new registration picks up its name automatically. After that: your own login will show the name prompt too — go claim your gangster name before someone takes the good one
