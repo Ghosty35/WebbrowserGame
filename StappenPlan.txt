@@ -202,12 +202,3 @@ Video's:
 "Building Social Features with Next.js"
 
 
-
-vverder gaan met : 
-
-Fase 5 polish so far:
-
-Game navigation bar — sticky at the top with Dashboard, plus Shop 🛒 / Family 👥 / Rankings 🏆 already visible as "Soon" (teases what's coming, and gives us slots to fill)
-Login/register: 👁️ show/hide password toggle, focus rings, card shadows
-Level-up banner now pulses for extra dopamine
-Run the SQL, say "done", and I'll test the claim flow (naming the test boss), then verify a brand-new registration picks up its name automatically. After that: your own login will show the name prompt too — go claim your gangster name before someone takes the good one
