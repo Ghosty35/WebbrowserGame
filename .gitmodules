@@ -1,0 +1,4 @@
+[submodule "mafia-game"]
+	path = mafia-game
+	url = https://github.com/Ghosty35/mafia-game
+	branch = master
